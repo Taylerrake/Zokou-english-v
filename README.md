@@ -47,7 +47,7 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
      6. Select the **Free Plan** if you don’t want to pay.
      7. In the **Environment Variable** section, click **Add from .env** and copy the content below:
 
-        ```
+        ```env
         PREFIX=.
         AUTO_READ_STATUS=yes
         AUTO_DOWNLOAD_STATUS=yes

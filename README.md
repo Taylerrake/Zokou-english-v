@@ -64,6 +64,7 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
         PM_CHATBOT=no
         SESSION_ID='zokk'
         ANTI_VIEW_ONCE="yes"
+        ANTI_COMMAND_SPAM=no
         ```
 
      8. Click **Add env** to save, then edit as needed. Don’t forget to enter your session ID.

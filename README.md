@@ -55,7 +55,6 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
         BOT_NAME=Zokou-MD
         BOT_MENU_LINKS=https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg
         PUBLIC_MODE=yes
-        HEROKU=no
         DATABASE_URL=postgresql://postgres:taajrTrRWXxhFYHuAKclPaWlsxCMFzLT@junction.proxy.rlwy.net:57114/railway
         OWNER_NAME=Djalega++
         NUMERO_OWNER=22891733300
